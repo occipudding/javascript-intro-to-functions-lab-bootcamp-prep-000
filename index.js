@@ -10,10 +10,10 @@ function whisper(string) {
 
 function logShout(string) {
   shout()
-  console.log(string)
+  console.log()
 }
 
-function logWhisper(string) {
+function logWhisper() {
   whisper()
   console.log(string)
 }
